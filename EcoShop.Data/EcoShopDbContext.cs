@@ -7,8 +7,13 @@ using System.Threading.Tasks;
 
 namespace EcoShop.Data
 {
-    internal class EcoShopDbContext: DbContext
+    public class EcoShopDbContext: DbContext
     {
+        public EcoShopDbContext(DbContextOptions<EcoShopDbContext> options ): base(options)
+        {
+
+        }
+
         public DbSet<Product> Products { get; set; }
     }
 }

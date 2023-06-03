@@ -1,0 +1,14 @@
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\bin\Debug\net6.0\EcoShop.Data.deps.json
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\bin\Debug\net6.0\EcoShop.Data.runtimeconfig.json
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\bin\Debug\net6.0\EcoShop.Data.dll
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\bin\Debug\net6.0\EcoShop.Data.pdb
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\obj\Debug\net6.0\EcoShop.Data.csproj.AssemblyReference.cache
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\obj\Debug\net6.0\EcoShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\obj\Debug\net6.0\EcoShop.Data.AssemblyInfoInputs.cache
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\obj\Debug\net6.0\EcoShop.Data.AssemblyInfo.cs
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\obj\Debug\net6.0\EcoShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\obj\Debug\net6.0\EcoShop.Data.dll
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\obj\Debug\net6.0\refint\EcoShop.Data.dll
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\obj\Debug\net6.0\EcoShop.Data.pdb
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\obj\Debug\net6.0\EcoShop.Data.genruntimeconfig.cache
+C:\Users\mariu\Desktop\ProjektC#\ProjektSklep_dot.net\EcoShop.Data\obj\Debug\net6.0\ref\EcoShop.Data.dll
