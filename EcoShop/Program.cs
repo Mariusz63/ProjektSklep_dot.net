@@ -1,9 +1,8 @@
-using EcoShop.Data;
-using Microsoft.EntityFrameworkCore;
+using EcoShop;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace EcoShop
+namespace CarBookingApp
 {
     public class Program
     {
